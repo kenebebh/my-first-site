@@ -65,7 +65,7 @@ h3, a{
 }
 #boma{
     width: 35%;
-    height: 250px;
+    height: 200px;
     float: right;
     padding: 5px;
     margin-left: 20px;
@@ -75,7 +75,7 @@ h3, a{
     margin: 50px auto;
 }
 #row2{
-    height: 230px;
+    height: 100%;
     padding: 15px;
 }
 .skill-row{
